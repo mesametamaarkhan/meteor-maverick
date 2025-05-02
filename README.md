@@ -20,6 +20,8 @@ A simple 2D game written in C++ using the SFML (Simple and Fast Multimedia Libra
 Update your package sources if needed (see below), then run:
 
 ```bash
+git clone https://github.com/mesametamaarkhan/meteor-maverick.git
+cd meteor-maverick
 sudo apt update
 sudo apt install libsfml-dev
 g++ main.cpp -o mygame -lsfml-graphics -lsfml-window -lsfml-system
