@@ -1,4 +1,4 @@
-# 🎮 SFML Game on Kali Linux
+# 🎮 Meteor Maverick
 
 A simple 2D game written in C++ using the SFML (Simple and Fast Multimedia Library). Built and tested on Linux. This project demonstrates basic game development concepts such as rendering, event handling, and game loop logic.
 
